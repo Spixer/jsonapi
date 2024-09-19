@@ -3,6 +3,7 @@
     {
       "id": "1",
       "text": "What does HTML stand for?",
+      "image": "https://picsum.photos/400/400",
       "choices": [
         { "id": "a", "text": "Hyper Text Markup Language" },
         { "id": "b", "text": "High Tech Modern Language" },
@@ -29,6 +30,7 @@
     {
       "id": "3",
       "text": "What is the correct way to declare a JavaScript variable?",
+      "image": "https://picsum.photos/400/400",
       "choices": [
         { "id": "a", "text": "variable myVar;" },
         { "id": "b", "text": "var myVar;" },
@@ -55,6 +57,7 @@
     {
       "id": "5",
       "text": "What is the purpose of the CSS 'box-sizing' property?",
+      "image": "https://picsum.photos/400/400",
       "choices": [
         { "id": "a", "text": "To control the size of the border box" },
         { "id": "b", "text": "To set the size of the content box" },
@@ -84,6 +87,7 @@
     {
       "id": "7",
       "text": "What does the 'cascading' in CSS stand for?",
+      "image": "https://picsum.photos/400/400",
       "choices": [
         {
           "id": "a",
@@ -116,6 +120,7 @@
     {
       "id": "9",
       "text": "What is the purpose of the JavaScript 'use strict' declaration?",
+      "image": "https://picsum.photos/400/400",
       "choices": [
         {
           "id": "a",
