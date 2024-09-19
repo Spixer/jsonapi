@@ -1,0 +1,152 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "text": "What does HTML stand for?",
+      "choices": [
+        { "id": "a", "text": "Hyper Text Markup Language" },
+        { "id": "b", "text": "High Tech Modern Language" },
+        { "id": "c", "text": "Hyperlink and Text Markup Language" },
+        { "id": "d", "text": "Home Tool Markup Language" }
+      ],
+      "multipleCorrect": false,
+      "difficulty": "easy",
+      "correctAnswers": ["a"]
+    },
+    {
+      "id": "2",
+      "text": "Which CSS property is used to change the text color of an element?",
+      "choices": [
+        { "id": "a", "text": "text-color" },
+        { "id": "b", "text": "font-color" },
+        { "id": "c", "text": "color" },
+        { "id": "d", "text": "text-style" }
+      ],
+      "multipleCorrect": false,
+      "difficulty": "easy",
+      "correctAnswers": ["c"]
+    },
+    {
+      "id": "3",
+      "text": "What is the correct way to declare a JavaScript variable?",
+      "choices": [
+        { "id": "a", "text": "variable myVar;" },
+        { "id": "b", "text": "var myVar;" },
+        { "id": "c", "text": "v myVar;" },
+        { "id": "d", "text": "let myVar;" }
+      ],
+      "multipleCorrect": true,
+      "difficulty": "medium",
+      "correctAnswers": ["b", "d"]
+    },
+    {
+      "id": "4",
+      "text": "Which HTML tag is used to create an unordered list?",
+      "choices": [
+        { "id": "a", "text": "<ol>" },
+        { "id": "b", "text": "<list>" },
+        { "id": "c", "text": "<ul>" },
+        { "id": "d", "text": "<unordered>" }
+      ],
+      "multipleCorrect": false,
+      "difficulty": "easy",
+      "correctAnswers": ["c"]
+    },
+    {
+      "id": "5",
+      "text": "What is the purpose of the CSS 'box-sizing' property?",
+      "choices": [
+        { "id": "a", "text": "To control the size of the border box" },
+        { "id": "b", "text": "To set the size of the content box" },
+        {
+          "id": "c",
+          "text": "To include padding and border in the element's total width and height"
+        },
+        { "id": "d", "text": "To exclude margin from the element's total size" }
+      ],
+      "multipleCorrect": false,
+      "difficulty": "medium",
+      "correctAnswers": ["c"]
+    },
+    {
+      "id": "6",
+      "text": "Which of the following is NOT a valid JavaScript data type?",
+      "choices": [
+        { "id": "a", "text": "String" },
+        { "id": "b", "text": "Boolean" },
+        { "id": "c", "text": "Float" },
+        { "id": "d", "text": "Undefined" }
+      ],
+      "multipleCorrect": false,
+      "difficulty": "medium",
+      "correctAnswers": ["c"]
+    },
+    {
+      "id": "7",
+      "text": "What does the 'cascading' in CSS stand for?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The order of importance of different style rules"
+        },
+        { "id": "b", "text": "The way styles are applied from top to bottom" },
+        {
+          "id": "c",
+          "text": "The inheritance of styles from parent to child elements"
+        },
+        { "id": "d", "text": "All of the above" }
+      ],
+      "multipleCorrect": false,
+      "difficulty": "hard",
+      "correctAnswers": ["d"]
+    },
+    {
+      "id": "8",
+      "text": "Which HTML5 tag is used to specify a footer for a document or section?",
+      "choices": [
+        { "id": "a", "text": "<bottom>" },
+        { "id": "b", "text": "<footer>" },
+        { "id": "c", "text": "<end>" },
+        { "id": "d", "text": "<section>" }
+      ],
+      "multipleCorrect": false,
+      "difficulty": "easy",
+      "correctAnswers": ["b"]
+    },
+    {
+      "id": "9",
+      "text": "What is the purpose of the JavaScript 'use strict' declaration?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "To enforce stricter parsing and error handling in JavaScript code"
+        },
+        {
+          "id": "b",
+          "text": "To allow the use of restricted keywords as variable names"
+        },
+        {
+          "id": "c",
+          "text": "To enable new JavaScript features in older browsers"
+        },
+        { "id": "d", "text": "To make the code run faster" }
+      ],
+      "multipleCorrect": false,
+      "difficulty": "hard",
+      "correctAnswers": ["a"]
+    },
+    {
+      "id": "10",
+      "text": "Which of the following CSS selectors has the highest specificity?",
+      "choices": [
+        { "id": "a", "text": ".class" },
+        { "id": "b", "text": "#id" },
+        { "id": "c", "text": "element" },
+        { "id": "d", "text": "[attribute]" }
+      ],
+      "multipleCorrect": false,
+      "difficulty": "hard",
+      "correctAnswers": ["b"]
+    }
+  ]
+}
